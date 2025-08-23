@@ -18,4 +18,5 @@ HabitForge is a responsive, frontend-only habit tracking application built as pa
 4. Open http://localhost:3000 in your browser.
 
 Video Link: https://drive.google.com/file/d/1yCVQIy57BqyzflAg4YalvNFfElajRgSg/view?usp=sharing
+
 Vercel Link: https://vercel.com/somshubhrodattas-projects/habit-forge/FW5VYpoNbNw8WjBfkJnURgjCiKF1
